@@ -8,3 +8,6 @@ azure-identity==1.7.1
 azure-keyvault-secrets==4.3.0
 azure-storage-blob==12.9.0
 django-environ==0.8.1
+azure-cognitiveservices-vision-computervision
+Pillow
+matplotlib
